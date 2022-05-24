@@ -1,35 +1,13 @@
-### Hi, I'm Md. Abdur Rahman 👋
-
-- 🔭 I’m currently working on Technology and Business Solutions Ltd. (TBS) 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Flutter documentation
-- 💬 Ask me about ASP.NET or Angular or Any tech related stuff
-- 📫 How to reach me: [Linkedin : @armilon927](https://www.linkedin.com/in/armilon927/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 8 hours in reading books everyday
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ARMilon927&&show_icons=true&title_color=ffffff&icon_color=F4FFFDFF&text_color=cc9900&bg_color=011936FF">
-
-
-
-
-
-
-
-
-
-
 [![MasterHead](https://www.suntecindia.com/blog/wp-content/uploads/2018/08/asp-net-banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-
-
- <span align="left"> <img src="https://komarev.com/ghpvc/?username=armilon927&label=Profile%20views&color=0e75b6&style=flat" alt="armilon927" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armilon927&label=Profile%20views&color=0e75b6&style=flat" alt="armilon927" /> </p>
+<table border=0 >
+ <tr>
+  <td>
   
-- 🔭 I’m currently working at **Technology and Business Solutions Ltd. (TBS)**
+- 🔭 I’m currently working at **[Technology and Business Solutions Ltd. (TBS)](http://www.tecbsl.com/)**
 
 - 🌱 I’m currently learning **Flutter, Angular**
 
@@ -42,9 +20,16 @@
 - 📫 How to reach me **a.r.milon927@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+  
+  </td>
+  <td><p align="right"> <img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"></p></td>
+ </tr>
+ 
+ </table>
 
-</span>
-<span align="right"> <img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"></span>
+
+
+ 
 
 
 
