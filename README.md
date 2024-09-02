@@ -8,7 +8,7 @@
  <tr>
   <td border="none !important;">
   
-- 🔭 I’m currently working at **[Technology and Business Solutions Ltd. (TBS)](http://www.tecbsl.com/)**
+- 🔭 I’m currently working at **[Eminence Technology](https://eminencetechnology.com/)**
 
 - 🌱 I’m currently learning **Flutter, Angular**
 
