@@ -8,11 +8,11 @@
  <tr>
   <td border="none !important;">
   
-- 🔭 I’m currently working at **[Eminence Technology](https://eminencetechnology.com/)**
+- 🔭 I’m currently working at **[Webatlas Technologies Ltd](https://webatlastech.com/)**
 
-- 🌱 I’m currently learning **Flutter, Angular**
+- 🌱 I’m currently learning **Flutter, Python**
 
-- 👯 I’m looking to collaborate on **easy shopping**
+- 👯 I’m looking to collaborate on **porar ghor**
 
 - 👨‍💻 All of my projects are available at [https://armilon927.github.io/](https://armilon927.github.io/)
 
